@@ -1,0 +1,4 @@
+omok_server
+omok_client
+*.o
+*.out
